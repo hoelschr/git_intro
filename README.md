@@ -1,1 +1,2 @@
 Ross Hoelscher
+hoelschr@oregonstate.edu
